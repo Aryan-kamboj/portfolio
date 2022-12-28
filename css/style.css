@@ -1,0 +1,31 @@
+img{
+    display:block;
+    margin-left: 7%;
+    margin-right: auto;
+    width: 15%;
+    height: 15%;
+    border-radius: 4%;
+}
+.topnav{
+    background-color: #e7e5e5;
+    overflow: hidden;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.topnav a{
+    float:left;
+    text-decoration: none;
+    color:#000000;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 14px 16px;
+}
+.topnav a:hover{
+    background-color:#cdcdcd;
+}
+.socials a{
+    float:right;
+    color:#000000;
+    text-align: center;
+    padding: 14px 16px;
+}
